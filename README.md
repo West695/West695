@@ -15,12 +15,13 @@ Comparing LSTM and NeuralProphet for Stock Price Prediction on Indonesian Stocks
 
 - Machine Learning & Deep Learning
 - Time Series Analysis
-- Python, PyTorch, TensorFlow, NeuralProphet
 - Data Science for Finance
+- Laravel
+- Next.js, React.js
 
 ## 📫 Get in touch!
 Interested in research, collaboration, or just want to talk about AI in finance?  
-Feel free to connect via [GitHub Issues](https://github.com/West695/From-LSTM-to-NeuralProphet/issues) on my featured project.
+Feel free to connect via [GitHub Issues](https://github.com/West695)
 
 ---
 
