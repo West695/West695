@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm West695 👋
 
-<!--
-**West695/West695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a student passionate about Machine Learning, Deep Learning, and AI research.  
+I specialize in building, analyzing, and optimizing neural models for time series and financial prediction—leveraging Python, PyTorch, TensorFlow, and modern ML libraries.
 
-Here are some ideas to get you started:
+## 🔬 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [From-LSTM-to-NeuralProphet](https://github.com/West695/From-LSTM-to-NeuralProphet)
+Comparing LSTM and NeuralProphet for Stock Price Prediction on Indonesian Stocks  
+- Developed and compared state-of-the-art time series models (LSTM, NeuralProphet) for predicting stock prices in the Indonesian market.
+- Hands-on with advanced ML/DL frameworks: Python, PyTorch, TensorFlow.
+- Results highlight strengths and trade-offs between classical RNNs and modern Prophet-based approaches for financial forecasting.
+
+## 🛠️ Skills
+
+- Machine Learning & Deep Learning
+- Time Series Analysis
+- Python, PyTorch, TensorFlow, NeuralProphet
+- Data Science for Finance
+
+## 📫 Get in touch!
+Interested in research, collaboration, or just want to talk about AI in finance?  
+Feel free to connect via [GitHub Issues](https://github.com/West695/From-LSTM-to-NeuralProphet/issues) on my featured project.
+
+---
+
+_Always learning, experimenting, and sharing!_
