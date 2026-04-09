@@ -5,7 +5,7 @@
 <h3 align="center">CS Undergrad @ Binus University | Exchange @ NSYSU Taiwan 🇹🇼</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/West695">
+  <a href="[https://linkedin.com/in/West695](https://www.linkedin.com/in/wesley-coa-147345249/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:academicswesley@gmail.com">
