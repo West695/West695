@@ -5,7 +5,7 @@
 <h3 align="center">CS Undergrad @ Binus University | Exchange @ NSYSU Taiwan 🇹🇼</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/wesleycoa">
+  <a href="https://linkedin.com/in/West695">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:academicswesley@gmail.com">
@@ -87,19 +87,19 @@ I build things at the intersection of **Machine Learning**, **Data Science**, an
 
 ## 📊 GitHub Stats & Activity
 
-> *Note: To render the GitHub stats and snake animation properly, ensure your repository name matches your username (e.g., `wesleycoa/wesleycoa`). For the snake animation, set up the [Platane/snk](https://github.com/Platane/snk) GitHub action in your `.github/workflows` directory.*
+> *Note: To render the GitHub stats and snake animation properly, ensure your repository name matches your username (e.g., `West695/West695`). For the snake animation, set up the [Platane/snk](https://github.com/Platane/snk) GitHub action in your `.github/workflows` directory.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleycoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycoa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=West695&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=West695&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleycoa/wesleycoa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleycoa/wesleycoa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wesleycoa/wesleycoa/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/West695/West695/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/West695/West695/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/West695/West695/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
