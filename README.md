@@ -90,8 +90,8 @@ I build things at the intersection of **Machine Learning**, **Data Science**, an
 > *Note: To render the GitHub stats and snake animation properly, ensure your repository name matches your username (e.g., `West695/West695`). For the snake animation, set up the [Platane/snk](https://github.com/Platane/snk) GitHub action in your `.github/workflows` directory.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=West695&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=West695&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=West695&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=West695&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </div>
 
 <br/>
