@@ -25,11 +25,11 @@ I build things at the intersection of **machine learning**, **data science**, an
 
 ## Tech Stack
 
-** Languages:** Python · Java · PHP · SQL · JavaScript
-** ML/AI:** PyTorch · scikit-learn · XGBoost · NeuralProphet · NLTK · Reinforcement Learning
-** Backend:** Laravel · REST API · Streamlit · MySQL
-** Cloud:** Microsoft Azure (AI-900) · AWS · Alibaba Cloud (Certified)
-** Tools:** Git · Jupyter · Linux · Pandas · NumPy · Matplotlib
+- Languages:** Python · Java · PHP · SQL · JavaScript
+- ML/AI:** PyTorch · scikit-learn · XGBoost · NeuralProphet · NLTK · Reinforcement Learning
+- Backend:** Laravel · REST API · Streamlit · MySQL
+- Cloud:** Microsoft Azure (AI-900) · AWS · Alibaba Cloud (Certified)
+- Tools:** Git · Jupyter · Linux · Pandas · NumPy · Matplotlib
 
 ## Certifications
 
