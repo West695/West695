@@ -1,28 +1,44 @@
-# Hi, I'm West695 👋
+# Hi, I'm Wesley Coa 👋
 
-Currently a student passionate about Machine Learning, Deep Learning, and AI research.  
-I specialize in building, analyzing, and optimizing neural models for time series and financial prediction—leveraging Python, PyTorch, TensorFlow, and modern ML libraries.
+**CS Undergraduate @ Bina Nusantara University (Global Class)**
+Currently on exchange at National Sun Yat-sen University, Taiwan
 
-## 🔬 Featured Project
+## What I Do
 
-### [From-LSTM-to-NeuralProphet](https://github.com/West695/From-LSTM-to-NeuralProphet)
-Comparing LSTM and NeuralProphet for Stock Price Prediction on Indonesian Stocks  
-- Developed and compared state-of-the-art time series models (LSTM, NeuralProphet) for predicting stock prices in the Indonesian market.
-- Hands-on with advanced ML/DL frameworks: Python, PyTorch, TensorFlow.
-- Results highlight strengths and trade-offs between classical RNNs and modern Prophet-based approaches for financial forecasting.
+I build things at the intersection of **machine learning**, **data science**, and **backend development**. My work spans time series forecasting, NLP classification, reinforcement learning, and full-stack web apps.
 
-## 🛠️ Skills
+## Current Focus
 
-- Machine Learning & Deep Learning
-- Time Series Analysis
-- Data Science for Finance
-- Laravel
-- Next.js, React.js
+- 🔬 Researching NeuralProphet vs. LSTM for stock market forecasting (10-20% accuracy improvement over baseline)
+- 🤖 Training DQN agents in PyTorch for the LunarLander-v3 environment
+- 🔐 Exploring blockchain cryptography and network security
 
-## 📫 Get in touch!
-Interested in research, collaboration, or just want to talk about AI in finance?  
-Feel free to connect via [GitHub Issues](https://github.com/West695)
+## Featured Projects
 
----
+| Project | Stack | Highlight |
+|---------|-------|-----------|
+| **CulinAIre** | Python, scikit-learn, XGBoost, TF-IDF | 90% accuracy multi-label recipe classifier with recommendation engine |
+| **Time Series Forecasting** | PyTorch, NeuralProphet, LSTM | Stock prediction with SMA/EMA/RSI/MACD as exogenous regressors |
+| **CozyCircle** | Laravel, PHP, MySQL | Full-stack community forum with auth, threaded discussions, Eloquent ORM |
+| **NLP Semantic Analyzer** | Python, NLTK, Logistic Regression | Multi-class text classification with automated tagging pipeline |
+| **Blockchain Toolkit** | Python | Finite field arithmetic, elliptic curve ops, Base58 encoding |
 
-_Always learning, experimenting, and sharing!_
+## Tech Stack
+
+**Languages:** Python · Java · PHP · SQL · JavaScript
+**ML/AI:** PyTorch · scikit-learn · XGBoost · NeuralProphet · NLTK · Reinforcement Learning
+**Backend:** Laravel · REST API · Streamlit · MySQL
+**Cloud:** Microsoft Azure (AI-900) · AWS · Alibaba Cloud (Certified)
+**Tools:** Git · Jupyter · Linux · Pandas · NumPy · Matplotlib
+
+## Certifications
+
+- Microsoft Azure AI Fundamentals (AI-900)
+- Alibaba Cloud Engineer Associate
+- IBM Generative AI
+- AWS Educate Cloud 101
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/wesleycoa)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:academicswesley@gmail.com)
